@@ -5,7 +5,7 @@ library(data.table)
 # This R script does the following:
 # 1. Merges the training and the test sets to create one data set.
 ## Read in all the raw data, including the label
-setwd('/Users/ashutosh/Documents/src/R/coursera/dataclean/data')
+#setwd('/Users/ashutosh/Documents/src/R/coursera/dataclean/data')
 
 
 #X test and Train
